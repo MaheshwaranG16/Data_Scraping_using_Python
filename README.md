@@ -1,6 +1,6 @@
 # Data_Scraping_using_Python
  
-This repository provides examples and guidance for web scraping using Python to extract, process, and store data from websites.
+This repository provides examples and guidance for web scraping using Python to extract, process, and store data from websites. In this repository, We are extracting the table data named **"Countries ranking highly in both total population (more than 20 million people) and population density (more than 250 people per square kilometer)"** from the Wikipedia's [World Population](https://en.wikipedia.org/wiki/World_population) website.
 
 ## Features
 
